@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @sbgayhub
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+    <img width="200px" src="https://avatars.githubusercontent.com/u/190381761" align="center" alt="GitHub Readme Stats" style="border-radius: 50%;"/>
+    <h2 align="center">GitHub Readme Stats</h2>
+    <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 
-<!---
-sbgayhub/sbgayhub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <p align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG"/>
+    </p>
+</div>
+
+## 🫡 Hi, here ![visitors](https://visitor-badge.glitch.me/badge?page_id=sbgayhub.sbgayhub&left_color=green&right_color=red)
+
+![ovo's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbgayhub)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sbgayhub)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sbgayhub)
