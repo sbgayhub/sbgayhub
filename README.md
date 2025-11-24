@@ -4,7 +4,7 @@
     <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
 
     <p align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=周期性+懒癌+患者+，+不定期+写+写+代码" alt="Typing SVG"/>
     </p>
 </div>
 
